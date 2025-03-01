@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 设置按钮的背景填充为白色 -->
+    <solid android:color="@android:color/white" />
+
+    <!-- 设置黑色边框 -->
+    <stroke android:color="@android:color/black" android:width="2dp" />
+
+    <!-- 可选：设置圆角 -->
+    <corners android:radius="8dp" />
+</shape>

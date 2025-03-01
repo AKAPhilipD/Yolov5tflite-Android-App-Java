@@ -1,0 +1,8 @@
+train: D:\dsh AI\1221001007-董士赫-yolo11app\dataset\train\images
+val: D:\dsh AI\1221001007-董士赫-yolo11app\dataset\val\images
+test: D:\dsh AI\1221001007-董士赫-yolo11app\dataset\test\images
+
+nc : 3
+
+#classes:
+names: ['The Shy','Jiejie','Rookie']

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">人脸识别大师</string>
+    <string name="welcome_message">欢迎来到人脸识别大师系统</string>
+    <string name="author">本程序作者:\n
+                       1221001007 董士赫\n
+                       1221001002 陈仕卿\n
+                       1221001029 邵行健
+    </string>
+    <string name="buttomA">选择手机图片进行检测</string>>
+    <string name="buttomB">打开手机摄像头进行检测</string>
+    <string name="buttomAtitle">手机图片检测界面</string>>
+    <string name="open_photo">打开相册</string>
+    <string name="open_camera">打开照相机</string>
+    <string name="Video_menu">实时监测界面</string>>
+    <string name="answertitle">检测结果：</string>
+    <string-array name="model">
+        <item>yolov5s</item>
+    </string-array>
+</resources>

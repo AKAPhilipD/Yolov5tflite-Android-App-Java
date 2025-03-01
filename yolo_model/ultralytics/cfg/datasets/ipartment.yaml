@@ -1,0 +1,8 @@
+train: D:/dsh AI/1221001007-董士赫-yolo11app/datasets/train/images
+val: D:/dsh AI/1221001007-董士赫-yolo11app/datasets/val/images
+test: D:/dsh AI/1221001007-董士赫-yolo11app/datasets/test/images
+
+nc : 3
+
+#classes:
+names: ['Lv Ziqiao','Zeng Xiaoxian','GuanGu Shenqi']
